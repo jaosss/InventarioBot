@@ -32,10 +32,7 @@ Antes de ejecutar el script, asegúrate de tener instalado Python 3.11 o superio
 ##  Instrucciones
 
 1. **Preparar el entorno:** Coloca el script de Python y tu archivo `componentes_electronicos.cvs` en el mismo directorio.
-2. **Ejecutar el programa:** Abre tu terminal y ejecuta el script con el comando:
-   ```bash
-   python nombre_de_tu_archivo.py
-   ```
+2. **Ejecutar el programa:** Abre el archivo Avance1_Chatbot.ipynb con jupyter o desde colab y ejecuta las celdas en orden.
 3. **Interactuar con el Bot:** El programa abrirá un ciclo continuo en la consola donde podrás realizar consultas directamente en lenguaje natural.
 
 ### Preguntas que puedes realizar:
