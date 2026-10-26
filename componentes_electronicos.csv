@@ -1,0 +1,1001 @@
+ID Artículo,Categoría,Descripción,Precio Unitario ($),Existencias Actuales,Merma (Unidades),Próximas Existencias (En camino),Estado
+COMP-0001,Conectores,Conectores 10k Ohm,43.11,41,14,0,Disponible
+COMP-0002,Transistores,Transistores DHT11,24.4,373,14,50,Disponible
+COMP-0003,Sensores,Sensores 2N2222,27.27,124,13,0,Disponible
+COMP-0004,Circuitos Integrados,Circuitos Integrados 2N2222,10.0,166,7,50,Disponible
+COMP-0005,Conectores,Conectores NE555,28.19,424,1,0,Disponible
+COMP-0006,Optoelectrónica,Optoelectrónica DHT11,25.77,240,9,0,Disponible
+COMP-0007,Diodos,Diodos NE555,8.4,458,11,0,Disponible
+COMP-0008,Conectores,Conectores DHT11,2.78,486,3,0,Disponible
+COMP-0009,Sensores,Sensores LED Rojo,27.24,0,5,0,Agotado
+COMP-0010,Circuitos Integrados,Circuitos Integrados 10k Ohm,34.39,187,11,100,Disponible
+COMP-0011,Transistores,Transistores LED Rojo,23.6,0,1,50,Agotado
+COMP-0012,Sensores,Sensores ESP32,10.28,18,6,0,Stock Bajo
+COMP-0013,Sensores,Sensores ATmega328P,30.03,67,2,0,Disponible
+COMP-0014,Diodos,Diodos 1N4148,3.7,217,12,50,Disponible
+COMP-0015,Microcontroladores,Microcontroladores DHT11,19.94,101,2,0,Disponible
+COMP-0016,Circuitos Integrados,Circuitos Integrados ESP32,7.44,41,10,50,Disponible
+COMP-0017,Capacitores,Capacitores ATmega328P,8.38,287,1,50,Disponible
+COMP-0018,Sensores,Sensores USB-C,9.18,166,10,100,Disponible
+COMP-0019,Microcontroladores,Microcontroladores 10k Ohm,17.46,108,7,0,Disponible
+COMP-0020,Capacitores,Capacitores NE555,2.4,493,5,0,Disponible
+COMP-0021,Circuitos Integrados,Circuitos Integrados NE555,17.96,35,0,0,Disponible
+COMP-0022,Resistencias,Resistencias LED Rojo,23.08,231,11,0,Disponible
+COMP-0023,Optoelectrónica,Optoelectrónica 2N2222,21.8,228,0,50,Disponible
+COMP-0024,Microcontroladores,Microcontroladores ATmega328P,17.29,0,6,0,Agotado
+COMP-0025,Módulos,Módulos USB-C,37.78,163,7,0,Disponible
+COMP-0026,Resistencias,Resistencias ESP32,6.63,386,4,100,Disponible
+COMP-0027,Optoelectrónica,Optoelectrónica 10k Ohm,22.81,72,11,50,Disponible
+COMP-0028,Diodos,Diodos ATmega328P,2.89,135,10,200,Disponible
+COMP-0029,Conectores,Conectores USB-C,3.29,352,4,50,Disponible
+COMP-0030,Transistores,Transistores 1N4148,25.87,0,3,200,Agotado
+COMP-0031,Módulos,Módulos DHT11,25.51,69,13,0,Disponible
+COMP-0032,Diodos,Diodos NE555,39.52,424,5,100,Disponible
+COMP-0033,Circuitos Integrados,Circuitos Integrados ESP32,25.15,486,13,0,Disponible
+COMP-0034,Diodos,Diodos NE555,43.19,0,5,0,Agotado
+COMP-0035,Conectores,Conectores ESP32,2.29,268,2,0,Disponible
+COMP-0036,Circuitos Integrados,Circuitos Integrados LED Rojo,4.5,48,8,0,Disponible
+COMP-0037,Módulos,Módulos 2N2222,2.08,315,11,50,Disponible
+COMP-0038,Conectores,Conectores ESP32,8.42,129,10,0,Disponible
+COMP-0039,Capacitores,Capacitores NE555,24.4,443,13,0,Disponible
+COMP-0040,Transistores,Transistores LED Rojo,29.09,4,6,0,Stock Bajo
+COMP-0041,Módulos,Módulos ESP32,2.15,427,0,0,Disponible
+COMP-0042,Capacitores,Capacitores 1N4148,42.57,0,14,0,Agotado
+COMP-0043,Optoelectrónica,Optoelectrónica 2N2222,37.91,159,12,0,Disponible
+COMP-0044,Módulos,Módulos ESP32,13.42,148,6,200,Disponible
+COMP-0045,Optoelectrónica,Optoelectrónica LED Rojo,3.57,263,4,0,Disponible
+COMP-0046,Circuitos Integrados,Circuitos Integrados ATmega328P,7.73,229,4,0,Disponible
+COMP-0047,Capacitores,Capacitores 100nF,5.8,199,13,0,Disponible
+COMP-0048,Transistores,Transistores USB-C,5.64,49,12,0,Disponible
+COMP-0049,Conectores,Conectores 100nF,23.38,66,1,0,Disponible
+COMP-0050,Sensores,Sensores 100nF,11.14,299,3,100,Disponible
+COMP-0051,Diodos,Diodos 10k Ohm,16.18,0,11,200,Agotado
+COMP-0052,Resistencias,Resistencias 1N4148,44.53,57,5,50,Disponible
+COMP-0053,Transistores,Transistores ATmega328P,30.83,258,9,0,Disponible
+COMP-0054,Capacitores,Capacitores DHT11,42.71,341,14,0,Disponible
+COMP-0055,Sensores,Sensores ESP32,6.5,325,10,0,Disponible
+COMP-0056,Transistores,Transistores USB-C,17.26,129,6,200,Disponible
+COMP-0057,Capacitores,Capacitores 2N2222,25.01,214,10,0,Disponible
+COMP-0058,Microcontroladores,Microcontroladores ATmega328P,3.55,171,4,0,Disponible
+COMP-0059,Microcontroladores,Microcontroladores NE555,0.29,257,8,0,Disponible
+COMP-0060,Optoelectrónica,Optoelectrónica DHT11,30.2,0,2,100,Agotado
+COMP-0061,Transistores,Transistores 10k Ohm,28.92,208,0,0,Disponible
+COMP-0062,Microcontroladores,Microcontroladores 10k Ohm,18.54,290,3,0,Disponible
+COMP-0063,Capacitores,Capacitores ATmega328P,22.09,353,8,0,Disponible
+COMP-0064,Optoelectrónica,Optoelectrónica LED Rojo,18.75,0,3,100,Agotado
+COMP-0065,Capacitores,Capacitores 100nF,1.18,285,1,0,Disponible
+COMP-0066,Optoelectrónica,Optoelectrónica NE555,15.16,0,9,100,Agotado
+COMP-0067,Transistores,Transistores 10k Ohm,8.05,0,13,50,Agotado
+COMP-0068,Sensores,Sensores USB-C,4.52,149,13,50,Disponible
+COMP-0069,Conectores,Conectores 10k Ohm,43.06,299,4,0,Disponible
+COMP-0070,Módulos,Módulos 2N2222,27.01,441,2,0,Disponible
+COMP-0071,Sensores,Sensores ESP32,32.82,35,12,0,Disponible
+COMP-0072,Circuitos Integrados,Circuitos Integrados 10k Ohm,14.26,0,11,0,Agotado
+COMP-0073,Capacitores,Capacitores 2N2222,17.75,332,12,0,Disponible
+COMP-0074,Circuitos Integrados,Circuitos Integrados ATmega328P,10.74,476,8,0,Disponible
+COMP-0075,Sensores,Sensores ATmega328P,4.45,0,3,200,Agotado
+COMP-0076,Optoelectrónica,Optoelectrónica DHT11,8.14,302,5,0,Disponible
+COMP-0077,Módulos,Módulos 10k Ohm,35.91,310,1,100,Disponible
+COMP-0078,Módulos,Módulos USB-C,30.52,207,5,0,Disponible
+COMP-0079,Resistencias,Resistencias 10k Ohm,24.66,105,2,0,Disponible
+COMP-0080,Módulos,Módulos USB-C,21.43,445,11,0,Disponible
+COMP-0081,Conectores,Conectores 1N4148,41.52,157,11,0,Disponible
+COMP-0082,Módulos,Módulos DHT11,3.37,120,8,0,Disponible
+COMP-0083,Sensores,Sensores 1N4148,12.7,54,10,100,Disponible
+COMP-0084,Resistencias,Resistencias 10k Ohm,15.81,399,1,100,Disponible
+COMP-0085,Sensores,Sensores DHT11,35.23,11,14,0,Stock Bajo
+COMP-0086,Sensores,Sensores 1N4148,44.66,144,11,200,Disponible
+COMP-0087,Diodos,Diodos 100nF,10.91,0,11,500,Agotado
+COMP-0088,Resistencias,Resistencias 10k Ohm,39.36,395,8,100,Disponible
+COMP-0089,Sensores,Sensores 1N4148,37.39,135,4,100,Disponible
+COMP-0090,Diodos,Diodos 100nF,10.19,467,7,0,Disponible
+COMP-0091,Diodos,Diodos 100nF,18.03,2,1,0,Stock Bajo
+COMP-0092,Resistencias,Resistencias ATmega328P,18.49,143,5,0,Disponible
+COMP-0093,Circuitos Integrados,Circuitos Integrados 10k Ohm,44.02,29,2,0,Disponible
+COMP-0094,Optoelectrónica,Optoelectrónica 100nF,8.22,236,11,500,Disponible
+COMP-0095,Conectores,Conectores ATmega328P,35.98,278,11,0,Disponible
+COMP-0096,Optoelectrónica,Optoelectrónica 1N4148,15.11,347,13,50,Disponible
+COMP-0097,Módulos,Módulos 2N2222,32.92,114,9,100,Disponible
+COMP-0098,Conectores,Conectores 10k Ohm,18.96,103,4,100,Disponible
+COMP-0099,Módulos,Módulos DHT11,26.07,117,11,500,Disponible
+COMP-0100,Sensores,Sensores USB-C,37.48,4,7,0,Stock Bajo
+COMP-0101,Capacitores,Capacitores USB-C,36.21,467,9,0,Disponible
+COMP-0102,Resistencias,Resistencias 1N4148,39.0,359,13,0,Disponible
+COMP-0103,Conectores,Conectores LED Rojo,2.78,0,0,100,Agotado
+COMP-0104,Conectores,Conectores LED Rojo,31.17,363,4,0,Disponible
+COMP-0105,Sensores,Sensores 1N4148,6.39,320,2,0,Disponible
+COMP-0106,Circuitos Integrados,Circuitos Integrados 100nF,18.77,120,3,50,Disponible
+COMP-0107,Diodos,Diodos 10k Ohm,24.73,285,1,0,Disponible
+COMP-0108,Sensores,Sensores USB-C,18.18,148,8,0,Disponible
+COMP-0109,Microcontroladores,Microcontroladores USB-C,23.43,83,2,0,Disponible
+COMP-0110,Diodos,Diodos 100nF,44.84,453,14,0,Disponible
+COMP-0111,Resistencias,Resistencias USB-C,6.17,405,1,0,Disponible
+COMP-0112,Diodos,Diodos DHT11,30.43,465,9,50,Disponible
+COMP-0113,Circuitos Integrados,Circuitos Integrados 10k Ohm,17.88,455,10,0,Disponible
+COMP-0114,Diodos,Diodos ESP32,6.07,230,8,50,Disponible
+COMP-0115,Resistencias,Resistencias USB-C,7.23,0,6,0,Agotado
+COMP-0116,Circuitos Integrados,Circuitos Integrados 1N4148,42.72,160,5,100,Disponible
+COMP-0117,Optoelectrónica,Optoelectrónica DHT11,39.59,0,0,100,Agotado
+COMP-0118,Conectores,Conectores USB-C,40.83,459,4,0,Disponible
+COMP-0119,Conectores,Conectores DHT11,44.62,37,11,0,Disponible
+COMP-0120,Módulos,Módulos ATmega328P,9.45,499,10,100,Disponible
+COMP-0121,Optoelectrónica,Optoelectrónica ESP32,16.06,225,13,0,Disponible
+COMP-0122,Optoelectrónica,Optoelectrónica NE555,30.15,141,14,0,Disponible
+COMP-0123,Diodos,Diodos 1N4148,21.82,291,10,500,Disponible
+COMP-0124,Conectores,Conectores 1N4148,18.89,480,2,50,Disponible
+COMP-0125,Resistencias,Resistencias 10k Ohm,16.17,150,0,0,Disponible
+COMP-0126,Transistores,Transistores DHT11,26.76,113,3,50,Disponible
+COMP-0127,Transistores,Transistores 100nF,25.94,236,12,0,Disponible
+COMP-0128,Circuitos Integrados,Circuitos Integrados 1N4148,7.35,65,1,0,Disponible
+COMP-0129,Conectores,Conectores DHT11,21.28,360,1,0,Disponible
+COMP-0130,Conectores,Conectores DHT11,24.95,0,2,200,Agotado
+COMP-0131,Transistores,Transistores 2N2222,25.71,257,7,200,Disponible
+COMP-0132,Conectores,Conectores 2N2222,9.53,474,7,0,Disponible
+COMP-0133,Diodos,Diodos NE555,33.43,248,11,0,Disponible
+COMP-0134,Microcontroladores,Microcontroladores ATmega328P,1.23,456,14,0,Disponible
+COMP-0135,Capacitores,Capacitores NE555,16.03,448,6,500,Disponible
+COMP-0136,Optoelectrónica,Optoelectrónica USB-C,35.13,0,5,500,Agotado
+COMP-0137,Módulos,Módulos 100nF,25.42,322,8,0,Disponible
+COMP-0138,Circuitos Integrados,Circuitos Integrados USB-C,11.83,179,3,100,Disponible
+COMP-0139,Microcontroladores,Microcontroladores LED Rojo,31.3,189,11,50,Disponible
+COMP-0140,Transistores,Transistores USB-C,25.58,406,0,0,Disponible
+COMP-0141,Optoelectrónica,Optoelectrónica 10k Ohm,35.85,153,7,0,Disponible
+COMP-0142,Conectores,Conectores USB-C,33.1,0,6,200,Agotado
+COMP-0143,Módulos,Módulos NE555,27.49,465,6,0,Disponible
+COMP-0144,Conectores,Conectores 1N4148,22.02,0,14,500,Agotado
+COMP-0145,Resistencias,Resistencias 1N4148,6.08,261,2,0,Disponible
+COMP-0146,Resistencias,Resistencias 2N2222,11.83,0,3,200,Agotado
+COMP-0147,Módulos,Módulos 100nF,18.92,405,9,0,Disponible
+COMP-0148,Módulos,Módulos 100nF,27.01,426,8,0,Disponible
+COMP-0149,Transistores,Transistores 10k Ohm,23.17,142,14,0,Disponible
+COMP-0150,Módulos,Módulos NE555,13.04,341,5,0,Disponible
+COMP-0151,Diodos,Diodos 2N2222,0.39,315,14,0,Disponible
+COMP-0152,Conectores,Conectores LED Rojo,22.38,0,14,200,Agotado
+COMP-0153,Microcontroladores,Microcontroladores 100nF,12.92,243,4,0,Disponible
+COMP-0154,Sensores,Sensores 1N4148,33.08,489,2,0,Disponible
+COMP-0155,Módulos,Módulos USB-C,1.18,11,8,0,Stock Bajo
+COMP-0156,Circuitos Integrados,Circuitos Integrados USB-C,26.36,238,4,0,Disponible
+COMP-0157,Resistencias,Resistencias 2N2222,42.37,48,4,50,Disponible
+COMP-0158,Diodos,Diodos NE555,7.93,0,13,100,Agotado
+COMP-0159,Optoelectrónica,Optoelectrónica NE555,21.28,165,3,0,Disponible
+COMP-0160,Sensores,Sensores ATmega328P,4.2,81,13,100,Disponible
+COMP-0161,Microcontroladores,Microcontroladores ESP32,28.19,428,3,0,Disponible
+COMP-0162,Sensores,Sensores 100nF,24.82,290,11,0,Disponible
+COMP-0163,Módulos,Módulos NE555,18.39,0,0,50,Agotado
+COMP-0164,Transistores,Transistores 1N4148,23.51,215,6,0,Disponible
+COMP-0165,Resistencias,Resistencias 2N2222,40.36,0,8,0,Agotado
+COMP-0166,Resistencias,Resistencias LED Rojo,8.91,157,2,100,Disponible
+COMP-0167,Optoelectrónica,Optoelectrónica ATmega328P,1.11,461,11,100,Disponible
+COMP-0168,Transistores,Transistores DHT11,38.79,133,12,500,Disponible
+COMP-0169,Conectores,Conectores 10k Ohm,26.01,66,14,0,Disponible
+COMP-0170,Capacitores,Capacitores LED Rojo,40.09,335,1,0,Disponible
+COMP-0171,Diodos,Diodos DHT11,26.9,6,2,0,Stock Bajo
+COMP-0172,Resistencias,Resistencias USB-C,36.48,0,0,100,Agotado
+COMP-0173,Circuitos Integrados,Circuitos Integrados 10k Ohm,19.39,13,5,0,Stock Bajo
+COMP-0174,Resistencias,Resistencias 100nF,33.77,72,10,0,Disponible
+COMP-0175,Sensores,Sensores 1N4148,41.1,398,10,200,Disponible
+COMP-0176,Resistencias,Resistencias 10k Ohm,25.79,404,6,0,Disponible
+COMP-0177,Resistencias,Resistencias ESP32,8.22,162,10,0,Disponible
+COMP-0178,Capacitores,Capacitores DHT11,12.17,65,10,0,Disponible
+COMP-0179,Capacitores,Capacitores 100nF,9.02,346,1,0,Disponible
+COMP-0180,Microcontroladores,Microcontroladores ESP32,11.18,0,7,500,Agotado
+COMP-0181,Conectores,Conectores USB-C,13.86,418,13,0,Disponible
+COMP-0182,Circuitos Integrados,Circuitos Integrados ESP32,25.03,465,5,0,Disponible
+COMP-0183,Resistencias,Resistencias ATmega328P,26.5,205,13,0,Disponible
+COMP-0184,Resistencias,Resistencias ATmega328P,19.25,0,3,100,Agotado
+COMP-0185,Diodos,Diodos 2N2222,27.73,465,4,100,Disponible
+COMP-0186,Capacitores,Capacitores LED Rojo,3.76,255,7,0,Disponible
+COMP-0187,Circuitos Integrados,Circuitos Integrados LED Rojo,4.04,265,13,0,Disponible
+COMP-0188,Optoelectrónica,Optoelectrónica 100nF,7.82,24,2,100,Disponible
+COMP-0189,Microcontroladores,Microcontroladores USB-C,23.36,449,2,100,Disponible
+COMP-0190,Conectores,Conectores NE555,9.71,0,13,0,Agotado
+COMP-0191,Transistores,Transistores ATmega328P,12.82,252,14,50,Disponible
+COMP-0192,Conectores,Conectores 100nF,18.07,309,13,0,Disponible
+COMP-0193,Sensores,Sensores NE555,36.55,288,10,100,Disponible
+COMP-0194,Resistencias,Resistencias LED Rojo,0.72,163,3,500,Disponible
+COMP-0195,Microcontroladores,Microcontroladores 2N2222,29.26,94,0,0,Disponible
+COMP-0196,Sensores,Sensores ESP32,30.13,0,8,100,Agotado
+COMP-0197,Circuitos Integrados,Circuitos Integrados ATmega328P,35.96,320,7,0,Disponible
+COMP-0198,Transistores,Transistores 100nF,41.98,109,7,500,Disponible
+COMP-0199,Capacitores,Capacitores 10k Ohm,1.0,335,13,0,Disponible
+COMP-0200,Microcontroladores,Microcontroladores NE555,7.0,0,9,100,Agotado
+COMP-0201,Microcontroladores,Microcontroladores ESP32,39.89,237,5,0,Disponible
+COMP-0202,Resistencias,Resistencias ATmega328P,20.69,380,6,0,Disponible
+COMP-0203,Módulos,Módulos LED Rojo,25.45,435,5,0,Disponible
+COMP-0204,Microcontroladores,Microcontroladores USB-C,29.87,386,8,500,Disponible
+COMP-0205,Diodos,Diodos NE555,30.59,482,2,100,Disponible
+COMP-0206,Transistores,Transistores LED Rojo,41.94,424,13,100,Disponible
+COMP-0207,Transistores,Transistores ATmega328P,44.86,389,2,200,Disponible
+COMP-0208,Diodos,Diodos NE555,32.44,24,2,0,Disponible
+COMP-0209,Optoelectrónica,Optoelectrónica ESP32,13.0,140,9,0,Disponible
+COMP-0210,Diodos,Diodos ATmega328P,39.6,116,2,0,Disponible
+COMP-0211,Diodos,Diodos DHT11,2.31,0,8,200,Agotado
+COMP-0212,Transistores,Transistores 100nF,10.48,391,11,0,Disponible
+COMP-0213,Conectores,Conectores ESP32,40.39,404,3,0,Disponible
+COMP-0214,Transistores,Transistores NE555,11.6,481,12,0,Disponible
+COMP-0215,Módulos,Módulos USB-C,10.01,451,6,0,Disponible
+COMP-0216,Resistencias,Resistencias LED Rojo,6.3,24,13,0,Disponible
+COMP-0217,Sensores,Sensores 10k Ohm,38.67,0,14,100,Agotado
+COMP-0218,Conectores,Conectores LED Rojo,22.55,67,8,500,Disponible
+COMP-0219,Capacitores,Capacitores NE555,30.4,172,10,50,Disponible
+COMP-0220,Sensores,Sensores LED Rojo,10.83,0,11,500,Agotado
+COMP-0221,Resistencias,Resistencias 100nF,34.14,11,6,0,Stock Bajo
+COMP-0222,Módulos,Módulos ATmega328P,34.22,0,8,500,Agotado
+COMP-0223,Módulos,Módulos 10k Ohm,14.14,127,11,50,Disponible
+COMP-0224,Capacitores,Capacitores 1N4148,18.54,95,2,0,Disponible
+COMP-0225,Conectores,Conectores NE555,9.52,91,14,0,Disponible
+COMP-0226,Optoelectrónica,Optoelectrónica 2N2222,43.95,140,3,0,Disponible
+COMP-0227,Diodos,Diodos 1N4148,29.09,30,13,0,Disponible
+COMP-0228,Conectores,Conectores LED Rojo,42.06,333,7,0,Disponible
+COMP-0229,Optoelectrónica,Optoelectrónica NE555,13.72,19,5,0,Stock Bajo
+COMP-0230,Módulos,Módulos DHT11,35.21,145,4,0,Disponible
+COMP-0231,Transistores,Transistores 2N2222,34.49,0,12,200,Agotado
+COMP-0232,Resistencias,Resistencias 10k Ohm,31.16,315,3,0,Disponible
+COMP-0233,Capacitores,Capacitores USB-C,43.46,446,7,100,Disponible
+COMP-0234,Resistencias,Resistencias DHT11,17.77,389,0,0,Disponible
+COMP-0235,Circuitos Integrados,Circuitos Integrados 1N4148,5.97,159,13,0,Disponible
+COMP-0236,Circuitos Integrados,Circuitos Integrados ATmega328P,30.26,348,8,100,Disponible
+COMP-0237,Conectores,Conectores 100nF,32.85,42,0,0,Disponible
+COMP-0238,Módulos,Módulos USB-C,25.92,253,7,0,Disponible
+COMP-0239,Módulos,Módulos DHT11,9.39,129,3,0,Disponible
+COMP-0240,Diodos,Diodos ATmega328P,22.75,59,8,0,Disponible
+COMP-0241,Diodos,Diodos ATmega328P,14.12,150,13,0,Disponible
+COMP-0242,Diodos,Diodos NE555,19.29,466,10,100,Disponible
+COMP-0243,Transistores,Transistores DHT11,29.07,0,4,0,Agotado
+COMP-0244,Sensores,Sensores 10k Ohm,33.56,498,2,0,Disponible
+COMP-0245,Microcontroladores,Microcontroladores LED Rojo,10.53,4,8,0,Stock Bajo
+COMP-0246,Sensores,Sensores 2N2222,18.3,466,10,0,Disponible
+COMP-0247,Resistencias,Resistencias 2N2222,12.19,417,13,0,Disponible
+COMP-0248,Sensores,Sensores 1N4148,9.02,265,13,0,Disponible
+COMP-0249,Transistores,Transistores 1N4148,35.27,344,8,0,Disponible
+COMP-0250,Resistencias,Resistencias 2N2222,40.93,0,3,100,Agotado
+COMP-0251,Sensores,Sensores 10k Ohm,16.72,381,10,0,Disponible
+COMP-0252,Transistores,Transistores 100nF,33.83,266,3,0,Disponible
+COMP-0253,Microcontroladores,Microcontroladores ESP32,40.38,0,11,100,Agotado
+COMP-0254,Sensores,Sensores LED Rojo,38.09,252,7,0,Disponible
+COMP-0255,Transistores,Transistores 100nF,8.31,414,1,0,Disponible
+COMP-0256,Diodos,Diodos NE555,43.04,55,8,0,Disponible
+COMP-0257,Módulos,Módulos ESP32,17.01,0,12,50,Agotado
+COMP-0258,Diodos,Diodos ESP32,15.33,456,13,0,Disponible
+COMP-0259,Módulos,Módulos DHT11,2.9,470,5,0,Disponible
+COMP-0260,Capacitores,Capacitores 10k Ohm,21.93,82,8,50,Disponible
+COMP-0261,Capacitores,Capacitores 10k Ohm,4.99,392,7,100,Disponible
+COMP-0262,Capacitores,Capacitores ESP32,11.26,98,14,0,Disponible
+COMP-0263,Microcontroladores,Microcontroladores DHT11,14.33,148,14,0,Disponible
+COMP-0264,Diodos,Diodos LED Rojo,36.42,0,6,100,Agotado
+COMP-0265,Módulos,Módulos ESP32,39.41,155,12,500,Disponible
+COMP-0266,Transistores,Transistores USB-C,13.68,189,13,100,Disponible
+COMP-0267,Resistencias,Resistencias 1N4148,38.66,493,0,0,Disponible
+COMP-0268,Transistores,Transistores 1N4148,38.59,370,13,0,Disponible
+COMP-0269,Resistencias,Resistencias 100nF,34.43,262,11,0,Disponible
+COMP-0270,Circuitos Integrados,Circuitos Integrados NE555,6.69,79,2,50,Disponible
+COMP-0271,Transistores,Transistores 1N4148,31.1,399,10,0,Disponible
+COMP-0272,Sensores,Sensores ATmega328P,42.53,251,13,0,Disponible
+COMP-0273,Sensores,Sensores 100nF,30.75,96,1,100,Disponible
+COMP-0274,Conectores,Conectores 1N4148,14.99,259,4,0,Disponible
+COMP-0275,Diodos,Diodos NE555,22.58,259,14,100,Disponible
+COMP-0276,Resistencias,Resistencias 10k Ohm,29.09,102,4,0,Disponible
+COMP-0277,Resistencias,Resistencias 10k Ohm,23.02,39,4,0,Disponible
+COMP-0278,Diodos,Diodos LED Rojo,5.49,272,3,0,Disponible
+COMP-0279,Microcontroladores,Microcontroladores ESP32,14.11,100,4,50,Disponible
+COMP-0280,Conectores,Conectores USB-C,36.13,358,2,0,Disponible
+COMP-0281,Microcontroladores,Microcontroladores 10k Ohm,38.78,0,11,100,Agotado
+COMP-0282,Microcontroladores,Microcontroladores DHT11,6.26,307,0,500,Disponible
+COMP-0283,Microcontroladores,Microcontroladores 1N4148,42.86,220,4,0,Disponible
+COMP-0284,Diodos,Diodos DHT11,14.86,307,12,0,Disponible
+COMP-0285,Microcontroladores,Microcontroladores NE555,29.84,0,8,100,Agotado
+COMP-0286,Sensores,Sensores 10k Ohm,33.86,123,12,0,Disponible
+COMP-0287,Capacitores,Capacitores USB-C,36.56,421,8,0,Disponible
+COMP-0288,Circuitos Integrados,Circuitos Integrados NE555,42.56,230,3,0,Disponible
+COMP-0289,Resistencias,Resistencias ATmega328P,14.15,177,2,0,Disponible
+COMP-0290,Resistencias,Resistencias ATmega328P,38.65,62,0,0,Disponible
+COMP-0291,Circuitos Integrados,Circuitos Integrados DHT11,6.01,484,1,0,Disponible
+COMP-0292,Diodos,Diodos ESP32,31.76,0,7,0,Agotado
+COMP-0293,Transistores,Transistores 100nF,33.41,190,0,0,Disponible
+COMP-0294,Diodos,Diodos ESP32,30.53,61,7,0,Disponible
+COMP-0295,Resistencias,Resistencias LED Rojo,11.43,255,12,0,Disponible
+COMP-0296,Resistencias,Resistencias ESP32,39.3,0,6,0,Agotado
+COMP-0297,Circuitos Integrados,Circuitos Integrados LED Rojo,7.68,6,14,0,Stock Bajo
+COMP-0298,Microcontroladores,Microcontroladores LED Rojo,2.51,154,7,100,Disponible
+COMP-0299,Diodos,Diodos USB-C,32.31,91,11,0,Disponible
+COMP-0300,Módulos,Módulos 10k Ohm,21.45,469,5,200,Disponible
+COMP-0301,Circuitos Integrados,Circuitos Integrados USB-C,38.22,13,11,500,Stock Bajo
+COMP-0302,Sensores,Sensores LED Rojo,17.31,454,13,0,Disponible
+COMP-0303,Resistencias,Resistencias NE555,7.66,228,14,0,Disponible
+COMP-0304,Circuitos Integrados,Circuitos Integrados ATmega328P,37.66,85,14,0,Disponible
+COMP-0305,Diodos,Diodos LED Rojo,24.75,0,8,50,Agotado
+COMP-0306,Resistencias,Resistencias USB-C,8.59,182,2,0,Disponible
+COMP-0307,Transistores,Transistores NE555,32.45,385,9,0,Disponible
+COMP-0308,Circuitos Integrados,Circuitos Integrados USB-C,23.05,61,3,0,Disponible
+COMP-0309,Conectores,Conectores ESP32,27.23,218,12,100,Disponible
+COMP-0310,Resistencias,Resistencias 1N4148,20.79,404,5,50,Disponible
+COMP-0311,Diodos,Diodos DHT11,37.31,245,7,0,Disponible
+COMP-0312,Capacitores,Capacitores 100nF,37.35,229,4,0,Disponible
+COMP-0313,Módulos,Módulos USB-C,31.95,78,2,0,Disponible
+COMP-0314,Optoelectrónica,Optoelectrónica 100nF,4.83,148,5,0,Disponible
+COMP-0315,Microcontroladores,Microcontroladores 2N2222,37.76,137,3,100,Disponible
+COMP-0316,Optoelectrónica,Optoelectrónica USB-C,30.23,470,8,0,Disponible
+COMP-0317,Diodos,Diodos 1N4148,31.4,313,12,0,Disponible
+COMP-0318,Sensores,Sensores 100nF,16.4,375,2,0,Disponible
+COMP-0319,Sensores,Sensores LED Rojo,39.58,422,3,100,Disponible
+COMP-0320,Capacitores,Capacitores USB-C,32.67,388,6,50,Disponible
+COMP-0321,Microcontroladores,Microcontroladores 10k Ohm,5.16,64,6,0,Disponible
+COMP-0322,Conectores,Conectores DHT11,18.41,12,11,50,Stock Bajo
+COMP-0323,Capacitores,Capacitores 1N4148,39.9,212,11,0,Disponible
+COMP-0324,Optoelectrónica,Optoelectrónica 100nF,2.22,473,3,0,Disponible
+COMP-0325,Capacitores,Capacitores 1N4148,43.27,241,5,0,Disponible
+COMP-0326,Optoelectrónica,Optoelectrónica NE555,30.59,492,11,0,Disponible
+COMP-0327,Resistencias,Resistencias DHT11,28.45,212,12,0,Disponible
+COMP-0328,Sensores,Sensores LED Rojo,12.25,180,2,200,Disponible
+COMP-0329,Resistencias,Resistencias USB-C,11.27,337,5,0,Disponible
+COMP-0330,Módulos,Módulos USB-C,42.4,484,11,0,Disponible
+COMP-0331,Microcontroladores,Microcontroladores USB-C,13.49,172,1,0,Disponible
+COMP-0332,Conectores,Conectores DHT11,34.92,159,7,0,Disponible
+COMP-0333,Optoelectrónica,Optoelectrónica 10k Ohm,17.75,163,1,200,Disponible
+COMP-0334,Conectores,Conectores 2N2222,6.35,464,10,0,Disponible
+COMP-0335,Optoelectrónica,Optoelectrónica ATmega328P,0.58,482,6,0,Disponible
+COMP-0336,Diodos,Diodos ESP32,24.54,496,8,50,Disponible
+COMP-0337,Capacitores,Capacitores 100nF,43.91,187,0,0,Disponible
+COMP-0338,Módulos,Módulos 10k Ohm,16.67,394,7,0,Disponible
+COMP-0339,Sensores,Sensores LED Rojo,16.14,190,6,0,Disponible
+COMP-0340,Optoelectrónica,Optoelectrónica 100nF,15.55,404,5,0,Disponible
+COMP-0341,Conectores,Conectores USB-C,23.47,0,5,500,Agotado
+COMP-0342,Módulos,Módulos 1N4148,19.89,255,5,50,Disponible
+COMP-0343,Transistores,Transistores LED Rojo,39.61,182,8,0,Disponible
+COMP-0344,Transistores,Transistores 100nF,22.8,0,1,100,Agotado
+COMP-0345,Resistencias,Resistencias USB-C,22.9,281,0,0,Disponible
+COMP-0346,Sensores,Sensores 100nF,6.31,195,12,0,Disponible
+COMP-0347,Diodos,Diodos 1N4148,44.23,0,11,500,Agotado
+COMP-0348,Conectores,Conectores USB-C,11.32,51,5,0,Disponible
+COMP-0349,Capacitores,Capacitores 2N2222,3.39,111,9,0,Disponible
+COMP-0350,Capacitores,Capacitores 10k Ohm,29.88,0,10,500,Agotado
+COMP-0351,Conectores,Conectores NE555,26.83,0,7,200,Agotado
+COMP-0352,Microcontroladores,Microcontroladores ESP32,18.74,231,2,0,Disponible
+COMP-0353,Diodos,Diodos DHT11,19.06,0,11,0,Agotado
+COMP-0354,Módulos,Módulos ESP32,35.35,232,9,0,Disponible
+COMP-0355,Optoelectrónica,Optoelectrónica LED Rojo,8.89,220,0,0,Disponible
+COMP-0356,Microcontroladores,Microcontroladores ESP32,36.93,435,8,0,Disponible
+COMP-0357,Optoelectrónica,Optoelectrónica USB-C,29.23,412,12,0,Disponible
+COMP-0358,Optoelectrónica,Optoelectrónica 2N2222,18.91,0,12,100,Agotado
+COMP-0359,Microcontroladores,Microcontroladores NE555,20.67,41,0,0,Disponible
+COMP-0360,Resistencias,Resistencias 10k Ohm,11.62,20,2,0,Stock Bajo
+COMP-0361,Transistores,Transistores 10k Ohm,33.87,41,7,0,Disponible
+COMP-0362,Optoelectrónica,Optoelectrónica 1N4148,23.13,396,13,0,Disponible
+COMP-0363,Microcontroladores,Microcontroladores DHT11,14.51,0,2,100,Agotado
+COMP-0364,Microcontroladores,Microcontroladores 100nF,26.86,104,12,50,Disponible
+COMP-0365,Circuitos Integrados,Circuitos Integrados 2N2222,44.81,191,3,0,Disponible
+COMP-0366,Resistencias,Resistencias 100nF,19.64,16,7,0,Stock Bajo
+COMP-0367,Sensores,Sensores NE555,41.44,119,0,0,Disponible
+COMP-0368,Circuitos Integrados,Circuitos Integrados ESP32,15.59,392,12,0,Disponible
+COMP-0369,Circuitos Integrados,Circuitos Integrados 10k Ohm,2.56,424,12,0,Disponible
+COMP-0370,Conectores,Conectores NE555,9.27,128,5,100,Disponible
+COMP-0371,Transistores,Transistores ESP32,18.9,129,0,0,Disponible
+COMP-0372,Microcontroladores,Microcontroladores 10k Ohm,9.96,59,13,50,Disponible
+COMP-0373,Transistores,Transistores ESP32,0.11,47,0,0,Disponible
+COMP-0374,Diodos,Diodos DHT11,41.18,0,13,50,Agotado
+COMP-0375,Conectores,Conectores 2N2222,37.99,96,7,0,Disponible
+COMP-0376,Sensores,Sensores LED Rojo,33.43,9,10,0,Stock Bajo
+COMP-0377,Transistores,Transistores NE555,7.63,241,3,0,Disponible
+COMP-0378,Capacitores,Capacitores NE555,5.5,313,11,200,Disponible
+COMP-0379,Optoelectrónica,Optoelectrónica ATmega328P,3.14,443,0,0,Disponible
+COMP-0380,Diodos,Diodos USB-C,32.61,0,9,0,Agotado
+COMP-0381,Resistencias,Resistencias DHT11,41.8,276,6,0,Disponible
+COMP-0382,Sensores,Sensores DHT11,19.43,283,4,100,Disponible
+COMP-0383,Diodos,Diodos 100nF,5.45,0,4,200,Agotado
+COMP-0384,Optoelectrónica,Optoelectrónica ESP32,23.11,246,0,50,Disponible
+COMP-0385,Conectores,Conectores USB-C,15.76,0,13,500,Agotado
+COMP-0386,Optoelectrónica,Optoelectrónica 2N2222,16.93,263,9,0,Disponible
+COMP-0387,Circuitos Integrados,Circuitos Integrados 2N2222,28.0,442,10,0,Disponible
+COMP-0388,Optoelectrónica,Optoelectrónica DHT11,32.37,213,5,500,Disponible
+COMP-0389,Circuitos Integrados,Circuitos Integrados 2N2222,5.07,199,13,0,Disponible
+COMP-0390,Conectores,Conectores ATmega328P,1.7,432,8,200,Disponible
+COMP-0391,Módulos,Módulos NE555,44.75,78,8,0,Disponible
+COMP-0392,Circuitos Integrados,Circuitos Integrados 1N4148,10.55,400,7,0,Disponible
+COMP-0393,Resistencias,Resistencias LED Rojo,2.52,443,4,0,Disponible
+COMP-0394,Optoelectrónica,Optoelectrónica 100nF,8.63,342,0,0,Disponible
+COMP-0395,Optoelectrónica,Optoelectrónica ESP32,1.85,0,8,100,Agotado
+COMP-0396,Resistencias,Resistencias LED Rojo,17.69,0,0,200,Agotado
+COMP-0397,Capacitores,Capacitores ESP32,36.13,466,7,100,Disponible
+COMP-0398,Microcontroladores,Microcontroladores 10k Ohm,15.42,68,4,50,Disponible
+COMP-0399,Módulos,Módulos LED Rojo,20.04,415,2,0,Disponible
+COMP-0400,Sensores,Sensores 1N4148,30.43,427,10,0,Disponible
+COMP-0401,Circuitos Integrados,Circuitos Integrados DHT11,22.95,448,6,500,Disponible
+COMP-0402,Resistencias,Resistencias ATmega328P,38.78,86,6,0,Disponible
+COMP-0403,Conectores,Conectores NE555,38.99,100,8,50,Disponible
+COMP-0404,Circuitos Integrados,Circuitos Integrados NE555,0.54,7,6,50,Stock Bajo
+COMP-0405,Microcontroladores,Microcontroladores ATmega328P,35.03,332,12,0,Disponible
+COMP-0406,Conectores,Conectores USB-C,20.79,199,10,500,Disponible
+COMP-0407,Diodos,Diodos 10k Ohm,44.5,86,13,0,Disponible
+COMP-0408,Optoelectrónica,Optoelectrónica ESP32,21.8,0,2,0,Agotado
+COMP-0409,Diodos,Diodos 1N4148,44.41,384,10,0,Disponible
+COMP-0410,Circuitos Integrados,Circuitos Integrados 2N2222,33.98,0,12,500,Agotado
+COMP-0411,Microcontroladores,Microcontroladores LED Rojo,11.26,434,14,0,Disponible
+COMP-0412,Módulos,Módulos 10k Ohm,24.27,407,13,0,Disponible
+COMP-0413,Circuitos Integrados,Circuitos Integrados LED Rojo,44.65,482,12,100,Disponible
+COMP-0414,Resistencias,Resistencias 1N4148,38.6,151,0,200,Disponible
+COMP-0415,Transistores,Transistores 100nF,4.47,0,7,100,Agotado
+COMP-0416,Circuitos Integrados,Circuitos Integrados 100nF,31.82,0,11,100,Agotado
+COMP-0417,Optoelectrónica,Optoelectrónica 10k Ohm,15.62,0,2,200,Agotado
+COMP-0418,Optoelectrónica,Optoelectrónica DHT11,0.41,276,11,0,Disponible
+COMP-0419,Circuitos Integrados,Circuitos Integrados 1N4148,18.22,231,7,0,Disponible
+COMP-0420,Conectores,Conectores 1N4148,10.64,313,7,0,Disponible
+COMP-0421,Transistores,Transistores ATmega328P,36.87,414,12,0,Disponible
+COMP-0422,Resistencias,Resistencias DHT11,15.25,365,4,0,Disponible
+COMP-0423,Circuitos Integrados,Circuitos Integrados ESP32,37.26,227,12,500,Disponible
+COMP-0424,Conectores,Conectores ESP32,0.13,138,11,0,Disponible
+COMP-0425,Optoelectrónica,Optoelectrónica 2N2222,13.92,0,12,0,Agotado
+COMP-0426,Optoelectrónica,Optoelectrónica NE555,10.93,398,0,0,Disponible
+COMP-0427,Microcontroladores,Microcontroladores 100nF,10.59,210,12,0,Disponible
+COMP-0428,Circuitos Integrados,Circuitos Integrados ESP32,3.16,390,9,0,Disponible
+COMP-0429,Transistores,Transistores DHT11,8.5,498,6,50,Disponible
+COMP-0430,Capacitores,Capacitores 1N4148,25.04,27,11,50,Disponible
+COMP-0431,Transistores,Transistores ESP32,13.18,50,9,0,Disponible
+COMP-0432,Optoelectrónica,Optoelectrónica 1N4148,18.84,490,4,200,Disponible
+COMP-0433,Optoelectrónica,Optoelectrónica ESP32,17.02,441,7,100,Disponible
+COMP-0434,Diodos,Diodos 100nF,39.43,260,8,50,Disponible
+COMP-0435,Optoelectrónica,Optoelectrónica LED Rojo,40.75,260,10,0,Disponible
+COMP-0436,Resistencias,Resistencias ESP32,22.23,349,13,0,Disponible
+COMP-0437,Sensores,Sensores DHT11,14.92,0,6,500,Agotado
+COMP-0438,Circuitos Integrados,Circuitos Integrados ESP32,4.9,7,13,0,Stock Bajo
+COMP-0439,Transistores,Transistores NE555,42.91,319,12,0,Disponible
+COMP-0440,Sensores,Sensores 100nF,2.8,137,14,0,Disponible
+COMP-0441,Conectores,Conectores DHT11,13.46,37,6,100,Disponible
+COMP-0442,Capacitores,Capacitores ATmega328P,13.48,110,0,100,Disponible
+COMP-0443,Resistencias,Resistencias DHT11,14.49,479,14,200,Disponible
+COMP-0444,Transistores,Transistores NE555,7.48,367,3,0,Disponible
+COMP-0445,Sensores,Sensores LED Rojo,35.26,0,1,500,Agotado
+COMP-0446,Capacitores,Capacitores 100nF,5.6,336,1,0,Disponible
+COMP-0447,Diodos,Diodos ATmega328P,28.61,222,1,0,Disponible
+COMP-0448,Resistencias,Resistencias NE555,5.66,0,3,200,Agotado
+COMP-0449,Resistencias,Resistencias NE555,3.27,0,13,200,Agotado
+COMP-0450,Diodos,Diodos 10k Ohm,40.93,359,0,0,Disponible
+COMP-0451,Circuitos Integrados,Circuitos Integrados 100nF,8.64,408,14,100,Disponible
+COMP-0452,Diodos,Diodos DHT11,36.97,328,3,0,Disponible
+COMP-0453,Resistencias,Resistencias 1N4148,24.55,449,1,50,Disponible
+COMP-0454,Resistencias,Resistencias LED Rojo,3.6,0,4,0,Agotado
+COMP-0455,Sensores,Sensores 1N4148,43.0,433,2,0,Disponible
+COMP-0456,Optoelectrónica,Optoelectrónica DHT11,11.19,450,14,0,Disponible
+COMP-0457,Capacitores,Capacitores DHT11,38.7,48,11,0,Disponible
+COMP-0458,Diodos,Diodos 100nF,7.68,291,7,0,Disponible
+COMP-0459,Capacitores,Capacitores DHT11,38.44,381,3,0,Disponible
+COMP-0460,Diodos,Diodos 10k Ohm,0.69,323,0,0,Disponible
+COMP-0461,Conectores,Conectores ATmega328P,23.08,77,0,0,Disponible
+COMP-0462,Resistencias,Resistencias DHT11,34.65,104,11,0,Disponible
+COMP-0463,Optoelectrónica,Optoelectrónica 1N4148,42.07,168,9,200,Disponible
+COMP-0464,Sensores,Sensores DHT11,40.92,216,2,0,Disponible
+COMP-0465,Optoelectrónica,Optoelectrónica 10k Ohm,36.9,377,14,50,Disponible
+COMP-0466,Optoelectrónica,Optoelectrónica ESP32,39.98,0,8,200,Agotado
+COMP-0467,Optoelectrónica,Optoelectrónica ESP32,9.04,189,6,200,Disponible
+COMP-0468,Capacitores,Capacitores NE555,12.86,254,1,100,Disponible
+COMP-0469,Diodos,Diodos LED Rojo,13.07,369,14,0,Disponible
+COMP-0470,Módulos,Módulos 2N2222,17.03,0,12,0,Agotado
+COMP-0471,Conectores,Conectores ATmega328P,17.76,148,8,100,Disponible
+COMP-0472,Transistores,Transistores USB-C,24.55,0,9,0,Agotado
+COMP-0473,Optoelectrónica,Optoelectrónica NE555,7.28,139,1,0,Disponible
+COMP-0474,Circuitos Integrados,Circuitos Integrados LED Rojo,31.14,346,2,0,Disponible
+COMP-0475,Capacitores,Capacitores ESP32,7.62,487,10,100,Disponible
+COMP-0476,Sensores,Sensores 1N4148,14.03,257,12,100,Disponible
+COMP-0477,Transistores,Transistores USB-C,22.7,373,9,0,Disponible
+COMP-0478,Módulos,Módulos LED Rojo,35.86,268,13,0,Disponible
+COMP-0479,Circuitos Integrados,Circuitos Integrados LED Rojo,33.3,180,1,0,Disponible
+COMP-0480,Módulos,Módulos NE555,29.08,159,2,0,Disponible
+COMP-0481,Transistores,Transistores USB-C,7.09,350,5,500,Disponible
+COMP-0482,Optoelectrónica,Optoelectrónica 100nF,24.66,399,8,0,Disponible
+COMP-0483,Circuitos Integrados,Circuitos Integrados 2N2222,4.03,287,8,0,Disponible
+COMP-0484,Módulos,Módulos 100nF,17.04,287,6,0,Disponible
+COMP-0485,Sensores,Sensores USB-C,18.67,379,11,50,Disponible
+COMP-0486,Diodos,Diodos 100nF,1.89,225,2,0,Disponible
+COMP-0487,Resistencias,Resistencias 10k Ohm,12.4,0,3,500,Agotado
+COMP-0488,Diodos,Diodos ESP32,43.01,9,5,0,Stock Bajo
+COMP-0489,Transistores,Transistores 10k Ohm,42.92,270,10,0,Disponible
+COMP-0490,Capacitores,Capacitores DHT11,15.92,272,4,0,Disponible
+COMP-0491,Resistencias,Resistencias 100nF,2.04,423,1,0,Disponible
+COMP-0492,Conectores,Conectores DHT11,8.14,401,12,0,Disponible
+COMP-0493,Sensores,Sensores 1N4148,17.71,182,5,200,Disponible
+COMP-0494,Conectores,Conectores ATmega328P,42.66,456,2,100,Disponible
+COMP-0495,Circuitos Integrados,Circuitos Integrados 1N4148,6.44,152,13,500,Disponible
+COMP-0496,Resistencias,Resistencias USB-C,34.38,487,7,0,Disponible
+COMP-0497,Conectores,Conectores LED Rojo,4.98,314,1,500,Disponible
+COMP-0498,Conectores,Conectores ESP32,44.16,0,0,500,Agotado
+COMP-0499,Módulos,Módulos 100nF,17.23,123,8,0,Disponible
+COMP-0500,Diodos,Diodos NE555,34.91,472,13,0,Disponible
+COMP-0501,Módulos,Módulos ATmega328P,15.48,113,11,0,Disponible
+COMP-0502,Resistencias,Resistencias 2N2222,28.28,277,2,0,Disponible
+COMP-0503,Resistencias,Resistencias 2N2222,8.72,499,10,0,Disponible
+COMP-0504,Transistores,Transistores 2N2222,6.66,413,0,0,Disponible
+COMP-0505,Módulos,Módulos 100nF,42.22,467,6,0,Disponible
+COMP-0506,Microcontroladores,Microcontroladores 2N2222,41.3,0,12,0,Agotado
+COMP-0507,Diodos,Diodos 10k Ohm,39.95,171,14,0,Disponible
+COMP-0508,Resistencias,Resistencias ATmega328P,28.18,0,9,500,Agotado
+COMP-0509,Transistores,Transistores 10k Ohm,36.39,434,4,100,Disponible
+COMP-0510,Módulos,Módulos LED Rojo,3.2,173,4,100,Disponible
+COMP-0511,Diodos,Diodos ATmega328P,15.13,112,13,0,Disponible
+COMP-0512,Módulos,Módulos 10k Ohm,14.19,375,0,0,Disponible
+COMP-0513,Conectores,Conectores ATmega328P,28.64,0,14,0,Agotado
+COMP-0514,Transistores,Transistores LED Rojo,16.08,482,14,100,Disponible
+COMP-0515,Diodos,Diodos DHT11,6.77,121,8,0,Disponible
+COMP-0516,Optoelectrónica,Optoelectrónica 100nF,26.88,31,6,0,Disponible
+COMP-0517,Circuitos Integrados,Circuitos Integrados 100nF,36.67,221,7,0,Disponible
+COMP-0518,Circuitos Integrados,Circuitos Integrados 2N2222,17.26,118,8,0,Disponible
+COMP-0519,Diodos,Diodos 1N4148,6.04,38,5,0,Disponible
+COMP-0520,Módulos,Módulos 2N2222,8.93,496,11,100,Disponible
+COMP-0521,Transistores,Transistores USB-C,10.76,267,4,0,Disponible
+COMP-0522,Circuitos Integrados,Circuitos Integrados 10k Ohm,13.57,232,5,0,Disponible
+COMP-0523,Transistores,Transistores ATmega328P,28.96,430,10,100,Disponible
+COMP-0524,Circuitos Integrados,Circuitos Integrados 1N4148,27.08,0,1,100,Agotado
+COMP-0525,Conectores,Conectores LED Rojo,31.35,148,3,0,Disponible
+COMP-0526,Módulos,Módulos USB-C,16.38,396,2,0,Disponible
+COMP-0527,Conectores,Conectores LED Rojo,37.1,148,12,0,Disponible
+COMP-0528,Circuitos Integrados,Circuitos Integrados 100nF,9.26,125,6,200,Disponible
+COMP-0529,Optoelectrónica,Optoelectrónica 100nF,21.16,391,8,0,Disponible
+COMP-0530,Optoelectrónica,Optoelectrónica 2N2222,36.06,0,4,200,Agotado
+COMP-0531,Conectores,Conectores 10k Ohm,8.19,359,5,0,Disponible
+COMP-0532,Optoelectrónica,Optoelectrónica 1N4148,5.03,237,9,0,Disponible
+COMP-0533,Circuitos Integrados,Circuitos Integrados ESP32,39.78,134,13,0,Disponible
+COMP-0534,Diodos,Diodos USB-C,15.5,150,11,0,Disponible
+COMP-0535,Conectores,Conectores USB-C,30.81,235,11,0,Disponible
+COMP-0536,Capacitores,Capacitores 2N2222,1.24,223,1,0,Disponible
+COMP-0537,Módulos,Módulos 100nF,31.08,202,2,0,Disponible
+COMP-0538,Optoelectrónica,Optoelectrónica 2N2222,14.29,255,2,500,Disponible
+COMP-0539,Optoelectrónica,Optoelectrónica ATmega328P,2.6,85,11,0,Disponible
+COMP-0540,Resistencias,Resistencias 1N4148,27.48,149,11,50,Disponible
+COMP-0541,Microcontroladores,Microcontroladores 10k Ohm,10.91,234,14,0,Disponible
+COMP-0542,Conectores,Conectores DHT11,17.47,344,8,0,Disponible
+COMP-0543,Sensores,Sensores NE555,3.72,21,14,0,Disponible
+COMP-0544,Optoelectrónica,Optoelectrónica NE555,6.71,347,6,0,Disponible
+COMP-0545,Módulos,Módulos 2N2222,13.48,284,7,200,Disponible
+COMP-0546,Capacitores,Capacitores ATmega328P,4.13,268,10,0,Disponible
+COMP-0547,Optoelectrónica,Optoelectrónica 1N4148,41.0,465,9,0,Disponible
+COMP-0548,Capacitores,Capacitores ESP32,0.37,257,10,0,Disponible
+COMP-0549,Circuitos Integrados,Circuitos Integrados NE555,21.83,28,8,0,Disponible
+COMP-0550,Circuitos Integrados,Circuitos Integrados 1N4148,5.63,0,5,0,Agotado
+COMP-0551,Microcontroladores,Microcontroladores 10k Ohm,13.91,0,3,100,Agotado
+COMP-0552,Diodos,Diodos LED Rojo,41.68,435,11,100,Disponible
+COMP-0553,Sensores,Sensores ATmega328P,7.36,282,0,0,Disponible
+COMP-0554,Resistencias,Resistencias 100nF,43.47,49,7,0,Disponible
+COMP-0555,Microcontroladores,Microcontroladores 1N4148,9.34,94,6,0,Disponible
+COMP-0556,Transistores,Transistores 10k Ohm,33.4,462,1,0,Disponible
+COMP-0557,Resistencias,Resistencias ESP32,24.65,498,7,0,Disponible
+COMP-0558,Conectores,Conectores DHT11,39.81,406,11,0,Disponible
+COMP-0559,Módulos,Módulos 100nF,24.97,87,4,0,Disponible
+COMP-0560,Transistores,Transistores DHT11,24.1,43,6,0,Disponible
+COMP-0561,Transistores,Transistores ESP32,8.88,460,3,0,Disponible
+COMP-0562,Microcontroladores,Microcontroladores 10k Ohm,7.56,0,4,200,Agotado
+COMP-0563,Diodos,Diodos NE555,41.25,170,7,0,Disponible
+COMP-0564,Microcontroladores,Microcontroladores DHT11,14.82,420,0,0,Disponible
+COMP-0565,Conectores,Conectores 100nF,16.81,188,0,100,Disponible
+COMP-0566,Optoelectrónica,Optoelectrónica 2N2222,34.22,352,14,0,Disponible
+COMP-0567,Optoelectrónica,Optoelectrónica USB-C,15.31,183,3,0,Disponible
+COMP-0568,Diodos,Diodos 1N4148,42.85,2,2,0,Stock Bajo
+COMP-0569,Conectores,Conectores NE555,33.23,190,12,100,Disponible
+COMP-0570,Diodos,Diodos DHT11,26.92,117,9,0,Disponible
+COMP-0571,Capacitores,Capacitores LED Rojo,39.65,18,11,0,Stock Bajo
+COMP-0572,Optoelectrónica,Optoelectrónica 1N4148,2.33,22,1,0,Disponible
+COMP-0573,Transistores,Transistores 2N2222,11.64,412,11,50,Disponible
+COMP-0574,Sensores,Sensores ESP32,20.98,29,2,500,Disponible
+COMP-0575,Módulos,Módulos USB-C,10.29,294,10,0,Disponible
+COMP-0576,Conectores,Conectores 10k Ohm,33.5,107,14,100,Disponible
+COMP-0577,Resistencias,Resistencias 2N2222,41.37,366,14,200,Disponible
+COMP-0578,Diodos,Diodos 2N2222,19.13,280,10,200,Disponible
+COMP-0579,Módulos,Módulos ESP32,15.46,127,13,0,Disponible
+COMP-0580,Resistencias,Resistencias ATmega328P,43.27,228,10,0,Disponible
+COMP-0581,Módulos,Módulos ESP32,20.07,110,0,0,Disponible
+COMP-0582,Sensores,Sensores ATmega328P,22.06,135,0,50,Disponible
+COMP-0583,Resistencias,Resistencias ATmega328P,15.89,361,5,0,Disponible
+COMP-0584,Microcontroladores,Microcontroladores NE555,40.94,0,4,100,Agotado
+COMP-0585,Circuitos Integrados,Circuitos Integrados NE555,25.65,143,7,0,Disponible
+COMP-0586,Microcontroladores,Microcontroladores 100nF,34.32,71,1,50,Disponible
+COMP-0587,Optoelectrónica,Optoelectrónica DHT11,36.55,128,3,100,Disponible
+COMP-0588,Circuitos Integrados,Circuitos Integrados DHT11,15.45,363,7,0,Disponible
+COMP-0589,Microcontroladores,Microcontroladores 10k Ohm,19.57,260,11,100,Disponible
+COMP-0590,Circuitos Integrados,Circuitos Integrados DHT11,38.2,2,5,0,Stock Bajo
+COMP-0591,Circuitos Integrados,Circuitos Integrados NE555,16.41,448,0,100,Disponible
+COMP-0592,Transistores,Transistores 100nF,35.75,387,14,0,Disponible
+COMP-0593,Diodos,Diodos 100nF,42.35,103,3,0,Disponible
+COMP-0594,Diodos,Diodos ATmega328P,28.08,482,0,200,Disponible
+COMP-0595,Transistores,Transistores ESP32,33.4,223,12,0,Disponible
+COMP-0596,Módulos,Módulos 10k Ohm,36.25,319,1,100,Disponible
+COMP-0597,Capacitores,Capacitores ATmega328P,38.04,361,4,0,Disponible
+COMP-0598,Módulos,Módulos ESP32,17.84,353,13,0,Disponible
+COMP-0599,Resistencias,Resistencias DHT11,2.4,490,7,0,Disponible
+COMP-0600,Resistencias,Resistencias ATmega328P,18.14,472,7,0,Disponible
+COMP-0601,Circuitos Integrados,Circuitos Integrados 1N4148,30.35,9,10,0,Stock Bajo
+COMP-0602,Microcontroladores,Microcontroladores DHT11,20.32,404,2,0,Disponible
+COMP-0603,Microcontroladores,Microcontroladores ESP32,33.73,383,10,0,Disponible
+COMP-0604,Diodos,Diodos 10k Ohm,16.13,301,12,0,Disponible
+COMP-0605,Conectores,Conectores ESP32,28.6,230,3,500,Disponible
+COMP-0606,Módulos,Módulos ATmega328P,8.47,218,9,500,Disponible
+COMP-0607,Optoelectrónica,Optoelectrónica ATmega328P,33.75,410,10,0,Disponible
+COMP-0608,Sensores,Sensores 2N2222,24.6,65,13,50,Disponible
+COMP-0609,Microcontroladores,Microcontroladores 10k Ohm,9.26,424,5,0,Disponible
+COMP-0610,Sensores,Sensores LED Rojo,13.21,111,10,0,Disponible
+COMP-0611,Circuitos Integrados,Circuitos Integrados DHT11,33.71,12,10,100,Stock Bajo
+COMP-0612,Sensores,Sensores 100nF,21.77,0,9,200,Agotado
+COMP-0613,Optoelectrónica,Optoelectrónica 10k Ohm,9.8,499,2,0,Disponible
+COMP-0614,Transistores,Transistores 100nF,43.53,419,1,50,Disponible
+COMP-0615,Optoelectrónica,Optoelectrónica 10k Ohm,32.21,0,5,100,Agotado
+COMP-0616,Sensores,Sensores 10k Ohm,43.08,233,10,500,Disponible
+COMP-0617,Optoelectrónica,Optoelectrónica ESP32,19.28,89,12,0,Disponible
+COMP-0618,Capacitores,Capacitores 10k Ohm,21.43,313,14,0,Disponible
+COMP-0619,Circuitos Integrados,Circuitos Integrados 2N2222,40.42,53,4,0,Disponible
+COMP-0620,Módulos,Módulos LED Rojo,23.67,11,13,0,Stock Bajo
+COMP-0621,Transistores,Transistores ATmega328P,31.86,208,9,0,Disponible
+COMP-0622,Microcontroladores,Microcontroladores USB-C,11.42,461,4,200,Disponible
+COMP-0623,Resistencias,Resistencias 100nF,20.16,13,9,0,Stock Bajo
+COMP-0624,Módulos,Módulos ATmega328P,5.64,120,12,0,Disponible
+COMP-0625,Resistencias,Resistencias USB-C,9.35,417,4,0,Disponible
+COMP-0626,Circuitos Integrados,Circuitos Integrados LED Rojo,0.14,436,9,0,Disponible
+COMP-0627,Transistores,Transistores LED Rojo,1.86,376,11,0,Disponible
+COMP-0628,Diodos,Diodos 100nF,43.98,19,4,0,Stock Bajo
+COMP-0629,Microcontroladores,Microcontroladores 100nF,10.98,74,2,0,Disponible
+COMP-0630,Capacitores,Capacitores LED Rojo,29.88,399,6,0,Disponible
+COMP-0631,Diodos,Diodos USB-C,37.78,242,5,0,Disponible
+COMP-0632,Circuitos Integrados,Circuitos Integrados 10k Ohm,24.82,222,3,50,Disponible
+COMP-0633,Módulos,Módulos DHT11,6.98,0,1,100,Agotado
+COMP-0634,Capacitores,Capacitores 1N4148,32.79,311,11,0,Disponible
+COMP-0635,Optoelectrónica,Optoelectrónica ATmega328P,27.05,0,8,200,Agotado
+COMP-0636,Sensores,Sensores ESP32,32.93,100,0,0,Disponible
+COMP-0637,Capacitores,Capacitores ATmega328P,34.66,0,12,0,Agotado
+COMP-0638,Circuitos Integrados,Circuitos Integrados ESP32,43.9,131,12,0,Disponible
+COMP-0639,Conectores,Conectores USB-C,25.85,110,10,0,Disponible
+COMP-0640,Sensores,Sensores ESP32,15.44,0,14,200,Agotado
+COMP-0641,Resistencias,Resistencias 100nF,29.22,131,13,0,Disponible
+COMP-0642,Microcontroladores,Microcontroladores DHT11,3.17,19,3,0,Stock Bajo
+COMP-0643,Resistencias,Resistencias DHT11,40.39,393,0,100,Disponible
+COMP-0644,Capacitores,Capacitores 100nF,5.46,23,12,500,Disponible
+COMP-0645,Resistencias,Resistencias 2N2222,14.82,226,5,0,Disponible
+COMP-0646,Circuitos Integrados,Circuitos Integrados USB-C,36.73,153,3,0,Disponible
+COMP-0647,Optoelectrónica,Optoelectrónica 2N2222,26.92,292,4,100,Disponible
+COMP-0648,Módulos,Módulos 2N2222,17.77,229,4,200,Disponible
+COMP-0649,Microcontroladores,Microcontroladores ATmega328P,21.36,468,8,0,Disponible
+COMP-0650,Resistencias,Resistencias LED Rojo,38.47,309,0,0,Disponible
+COMP-0651,Resistencias,Resistencias ATmega328P,15.37,487,12,0,Disponible
+COMP-0652,Capacitores,Capacitores LED Rojo,39.15,358,1,0,Disponible
+COMP-0653,Módulos,Módulos 1N4148,4.06,404,12,0,Disponible
+COMP-0654,Diodos,Diodos ESP32,34.98,0,5,500,Agotado
+COMP-0655,Resistencias,Resistencias LED Rojo,38.15,0,4,0,Agotado
+COMP-0656,Circuitos Integrados,Circuitos Integrados 100nF,8.26,429,10,0,Disponible
+COMP-0657,Conectores,Conectores ATmega328P,19.42,259,6,50,Disponible
+COMP-0658,Microcontroladores,Microcontroladores USB-C,7.53,187,2,0,Disponible
+COMP-0659,Resistencias,Resistencias ESP32,31.83,56,2,0,Disponible
+COMP-0660,Circuitos Integrados,Circuitos Integrados 1N4148,24.14,428,9,0,Disponible
+COMP-0661,Circuitos Integrados,Circuitos Integrados LED Rojo,28.63,19,1,0,Stock Bajo
+COMP-0662,Microcontroladores,Microcontroladores 1N4148,8.92,0,12,500,Agotado
+COMP-0663,Diodos,Diodos USB-C,9.61,0,2,200,Agotado
+COMP-0664,Circuitos Integrados,Circuitos Integrados 2N2222,1.96,0,9,500,Agotado
+COMP-0665,Conectores,Conectores DHT11,14.56,3,0,50,Stock Bajo
+COMP-0666,Circuitos Integrados,Circuitos Integrados USB-C,25.23,220,4,0,Disponible
+COMP-0667,Circuitos Integrados,Circuitos Integrados NE555,38.62,13,13,200,Stock Bajo
+COMP-0668,Circuitos Integrados,Circuitos Integrados USB-C,30.05,2,14,0,Stock Bajo
+COMP-0669,Optoelectrónica,Optoelectrónica 1N4148,19.65,215,11,0,Disponible
+COMP-0670,Optoelectrónica,Optoelectrónica 100nF,42.9,228,4,0,Disponible
+COMP-0671,Diodos,Diodos ATmega328P,32.39,0,11,200,Agotado
+COMP-0672,Resistencias,Resistencias 100nF,41.86,0,10,100,Agotado
+COMP-0673,Circuitos Integrados,Circuitos Integrados 1N4148,23.79,54,6,100,Disponible
+COMP-0674,Módulos,Módulos ATmega328P,11.72,499,3,0,Disponible
+COMP-0675,Resistencias,Resistencias NE555,2.47,387,2,0,Disponible
+COMP-0676,Diodos,Diodos DHT11,32.7,375,0,100,Disponible
+COMP-0677,Transistores,Transistores ESP32,5.55,253,11,200,Disponible
+COMP-0678,Resistencias,Resistencias 1N4148,13.69,23,14,0,Disponible
+COMP-0679,Resistencias,Resistencias LED Rojo,24.01,161,7,0,Disponible
+COMP-0680,Sensores,Sensores 1N4148,25.44,157,12,0,Disponible
+COMP-0681,Capacitores,Capacitores 1N4148,27.07,81,2,100,Disponible
+COMP-0682,Sensores,Sensores ATmega328P,7.56,402,12,0,Disponible
+COMP-0683,Conectores,Conectores 10k Ohm,17.15,158,14,0,Disponible
+COMP-0684,Optoelectrónica,Optoelectrónica USB-C,27.81,187,1,50,Disponible
+COMP-0685,Optoelectrónica,Optoelectrónica 10k Ohm,43.64,59,10,0,Disponible
+COMP-0686,Capacitores,Capacitores NE555,32.77,402,3,0,Disponible
+COMP-0687,Microcontroladores,Microcontroladores LED Rojo,41.52,304,2,0,Disponible
+COMP-0688,Microcontroladores,Microcontroladores DHT11,34.32,318,12,0,Disponible
+COMP-0689,Diodos,Diodos 2N2222,26.67,365,0,0,Disponible
+COMP-0690,Capacitores,Capacitores NE555,8.72,210,2,0,Disponible
+COMP-0691,Resistencias,Resistencias 2N2222,30.03,405,11,0,Disponible
+COMP-0692,Microcontroladores,Microcontroladores 2N2222,28.09,151,1,0,Disponible
+COMP-0693,Circuitos Integrados,Circuitos Integrados DHT11,27.15,108,7,100,Disponible
+COMP-0694,Módulos,Módulos 100nF,22.09,0,5,50,Agotado
+COMP-0695,Resistencias,Resistencias 10k Ohm,23.84,0,8,200,Agotado
+COMP-0696,Conectores,Conectores 1N4148,15.12,313,7,0,Disponible
+COMP-0697,Circuitos Integrados,Circuitos Integrados ESP32,23.42,0,9,0,Agotado
+COMP-0698,Circuitos Integrados,Circuitos Integrados 2N2222,8.97,116,2,0,Disponible
+COMP-0699,Capacitores,Capacitores LED Rojo,36.25,414,4,0,Disponible
+COMP-0700,Diodos,Diodos NE555,8.44,355,6,0,Disponible
+COMP-0701,Conectores,Conectores 100nF,3.91,191,4,0,Disponible
+COMP-0702,Microcontroladores,Microcontroladores 2N2222,19.69,18,7,0,Stock Bajo
+COMP-0703,Capacitores,Capacitores 100nF,29.66,431,11,0,Disponible
+COMP-0704,Microcontroladores,Microcontroladores 100nF,19.75,172,4,0,Disponible
+COMP-0705,Capacitores,Capacitores 2N2222,12.53,227,0,0,Disponible
+COMP-0706,Capacitores,Capacitores ATmega328P,25.16,349,4,0,Disponible
+COMP-0707,Capacitores,Capacitores USB-C,15.68,182,3,0,Disponible
+COMP-0708,Diodos,Diodos LED Rojo,41.99,0,5,100,Agotado
+COMP-0709,Capacitores,Capacitores 1N4148,41.53,182,2,100,Disponible
+COMP-0710,Transistores,Transistores 1N4148,22.66,480,14,0,Disponible
+COMP-0711,Módulos,Módulos LED Rojo,14.82,145,10,0,Disponible
+COMP-0712,Microcontroladores,Microcontroladores ATmega328P,33.2,0,4,200,Agotado
+COMP-0713,Resistencias,Resistencias 1N4148,1.75,115,1,0,Disponible
+COMP-0714,Sensores,Sensores 100nF,21.42,112,10,0,Disponible
+COMP-0715,Conectores,Conectores DHT11,15.2,250,5,100,Disponible
+COMP-0716,Optoelectrónica,Optoelectrónica NE555,41.43,475,12,0,Disponible
+COMP-0717,Diodos,Diodos 10k Ohm,0.64,0,14,100,Agotado
+COMP-0718,Resistencias,Resistencias 1N4148,24.92,302,11,0,Disponible
+COMP-0719,Circuitos Integrados,Circuitos Integrados LED Rojo,33.36,458,5,0,Disponible
+COMP-0720,Transistores,Transistores DHT11,21.88,312,4,50,Disponible
+COMP-0721,Optoelectrónica,Optoelectrónica 2N2222,3.93,117,5,0,Disponible
+COMP-0722,Sensores,Sensores USB-C,43.76,300,10,0,Disponible
+COMP-0723,Resistencias,Resistencias LED Rojo,23.36,160,6,0,Disponible
+COMP-0724,Optoelectrónica,Optoelectrónica 100nF,27.68,400,11,0,Disponible
+COMP-0725,Resistencias,Resistencias USB-C,10.72,197,4,500,Disponible
+COMP-0726,Transistores,Transistores NE555,21.81,259,0,0,Disponible
+COMP-0727,Sensores,Sensores NE555,19.37,0,7,500,Agotado
+COMP-0728,Circuitos Integrados,Circuitos Integrados ATmega328P,3.46,239,3,500,Disponible
+COMP-0729,Capacitores,Capacitores ESP32,4.87,46,8,50,Disponible
+COMP-0730,Microcontroladores,Microcontroladores ATmega328P,37.7,474,13,0,Disponible
+COMP-0731,Circuitos Integrados,Circuitos Integrados DHT11,10.87,398,9,0,Disponible
+COMP-0732,Capacitores,Capacitores USB-C,8.85,197,11,100,Disponible
+COMP-0733,Diodos,Diodos ESP32,22.77,0,5,500,Agotado
+COMP-0734,Módulos,Módulos 2N2222,34.62,77,0,0,Disponible
+COMP-0735,Conectores,Conectores 100nF,2.88,123,2,0,Disponible
+COMP-0736,Conectores,Conectores USB-C,26.0,74,2,0,Disponible
+COMP-0737,Microcontroladores,Microcontroladores ATmega328P,5.45,358,9,0,Disponible
+COMP-0738,Sensores,Sensores 10k Ohm,1.74,136,11,0,Disponible
+COMP-0739,Transistores,Transistores ESP32,2.47,0,11,200,Agotado
+COMP-0740,Sensores,Sensores ESP32,37.55,399,3,100,Disponible
+COMP-0741,Transistores,Transistores 100nF,5.4,324,5,0,Disponible
+COMP-0742,Sensores,Sensores 1N4148,2.13,499,14,200,Disponible
+COMP-0743,Módulos,Módulos NE555,19.76,0,6,200,Agotado
+COMP-0744,Diodos,Diodos NE555,38.0,137,9,100,Disponible
+COMP-0745,Diodos,Diodos 10k Ohm,11.88,49,3,0,Disponible
+COMP-0746,Capacitores,Capacitores DHT11,19.03,258,5,50,Disponible
+COMP-0747,Optoelectrónica,Optoelectrónica DHT11,1.89,0,10,100,Agotado
+COMP-0748,Diodos,Diodos 2N2222,20.26,0,0,100,Agotado
+COMP-0749,Diodos,Diodos USB-C,26.03,112,13,0,Disponible
+COMP-0750,Circuitos Integrados,Circuitos Integrados LED Rojo,25.73,349,7,100,Disponible
+COMP-0751,Circuitos Integrados,Circuitos Integrados 1N4148,15.03,0,6,500,Agotado
+COMP-0752,Capacitores,Capacitores ATmega328P,14.27,117,14,0,Disponible
+COMP-0753,Optoelectrónica,Optoelectrónica LED Rojo,4.89,492,10,0,Disponible
+COMP-0754,Microcontroladores,Microcontroladores LED Rojo,16.57,197,10,50,Disponible
+COMP-0755,Circuitos Integrados,Circuitos Integrados ESP32,4.57,336,8,0,Disponible
+COMP-0756,Microcontroladores,Microcontroladores 10k Ohm,34.52,364,2,100,Disponible
+COMP-0757,Resistencias,Resistencias NE555,43.49,50,1,0,Disponible
+COMP-0758,Circuitos Integrados,Circuitos Integrados 2N2222,43.66,244,0,0,Disponible
+COMP-0759,Módulos,Módulos DHT11,38.94,402,2,500,Disponible
+COMP-0760,Optoelectrónica,Optoelectrónica 10k Ohm,27.08,0,4,100,Agotado
+COMP-0761,Capacitores,Capacitores ESP32,31.57,34,13,100,Disponible
+COMP-0762,Resistencias,Resistencias ATmega328P,12.91,301,10,0,Disponible
+COMP-0763,Optoelectrónica,Optoelectrónica 2N2222,28.42,0,1,0,Agotado
+COMP-0764,Módulos,Módulos ESP32,20.56,498,11,0,Disponible
+COMP-0765,Optoelectrónica,Optoelectrónica NE555,21.74,0,2,200,Agotado
+COMP-0766,Módulos,Módulos NE555,34.12,0,14,500,Agotado
+COMP-0767,Módulos,Módulos NE555,12.76,319,14,0,Disponible
+COMP-0768,Microcontroladores,Microcontroladores 10k Ohm,14.38,420,14,0,Disponible
+COMP-0769,Sensores,Sensores 10k Ohm,41.62,467,3,0,Disponible
+COMP-0770,Resistencias,Resistencias DHT11,2.62,48,6,50,Disponible
+COMP-0771,Optoelectrónica,Optoelectrónica DHT11,21.9,404,12,0,Disponible
+COMP-0772,Transistores,Transistores ATmega328P,41.08,73,2,0,Disponible
+COMP-0773,Resistencias,Resistencias 2N2222,27.51,191,14,0,Disponible
+COMP-0774,Sensores,Sensores 100nF,24.63,260,8,0,Disponible
+COMP-0775,Resistencias,Resistencias 100nF,11.31,355,7,50,Disponible
+COMP-0776,Diodos,Diodos ESP32,15.51,69,3,0,Disponible
+COMP-0777,Transistores,Transistores NE555,38.36,89,12,0,Disponible
+COMP-0778,Sensores,Sensores 2N2222,25.21,259,0,0,Disponible
+COMP-0779,Microcontroladores,Microcontroladores LED Rojo,23.21,125,0,0,Disponible
+COMP-0780,Optoelectrónica,Optoelectrónica 10k Ohm,4.57,230,0,100,Disponible
+COMP-0781,Conectores,Conectores USB-C,0.82,294,0,0,Disponible
+COMP-0782,Sensores,Sensores 1N4148,43.37,497,7,50,Disponible
+COMP-0783,Capacitores,Capacitores ATmega328P,17.03,0,2,200,Agotado
+COMP-0784,Optoelectrónica,Optoelectrónica NE555,27.18,128,14,0,Disponible
+COMP-0785,Sensores,Sensores NE555,3.68,279,5,200,Disponible
+COMP-0786,Diodos,Diodos NE555,30.77,0,2,500,Agotado
+COMP-0787,Conectores,Conectores 10k Ohm,41.97,99,10,0,Disponible
+COMP-0788,Diodos,Diodos 10k Ohm,25.95,325,4,0,Disponible
+COMP-0789,Conectores,Conectores 1N4148,5.76,296,12,0,Disponible
+COMP-0790,Capacitores,Capacitores LED Rojo,26.22,181,14,0,Disponible
+COMP-0791,Optoelectrónica,Optoelectrónica 2N2222,34.51,173,13,0,Disponible
+COMP-0792,Microcontroladores,Microcontroladores NE555,18.35,315,12,0,Disponible
+COMP-0793,Diodos,Diodos 100nF,39.6,363,14,0,Disponible
+COMP-0794,Diodos,Diodos DHT11,29.23,187,6,0,Disponible
+COMP-0795,Módulos,Módulos 100nF,40.48,56,1,0,Disponible
+COMP-0796,Conectores,Conectores ESP32,28.1,0,5,200,Agotado
+COMP-0797,Circuitos Integrados,Circuitos Integrados 100nF,5.99,0,12,100,Agotado
+COMP-0798,Optoelectrónica,Optoelectrónica ESP32,14.01,151,5,500,Disponible
+COMP-0799,Conectores,Conectores USB-C,9.16,472,10,0,Disponible
+COMP-0800,Módulos,Módulos DHT11,40.91,35,2,100,Disponible
+COMP-0801,Resistencias,Resistencias 100nF,34.24,212,5,0,Disponible
+COMP-0802,Conectores,Conectores USB-C,30.47,413,9,0,Disponible
+COMP-0803,Microcontroladores,Microcontroladores ATmega328P,13.61,407,9,0,Disponible
+COMP-0804,Optoelectrónica,Optoelectrónica 2N2222,8.36,363,13,0,Disponible
+COMP-0805,Módulos,Módulos USB-C,34.06,105,4,0,Disponible
+COMP-0806,Resistencias,Resistencias 2N2222,21.39,413,11,0,Disponible
+COMP-0807,Transistores,Transistores 100nF,10.24,341,1,0,Disponible
+COMP-0808,Módulos,Módulos LED Rojo,27.79,219,8,200,Disponible
+COMP-0809,Transistores,Transistores USB-C,1.91,390,7,0,Disponible
+COMP-0810,Optoelectrónica,Optoelectrónica DHT11,14.75,162,2,0,Disponible
+COMP-0811,Diodos,Diodos 100nF,21.14,438,7,50,Disponible
+COMP-0812,Módulos,Módulos NE555,6.74,219,13,0,Disponible
+COMP-0813,Capacitores,Capacitores 10k Ohm,44.31,269,8,0,Disponible
+COMP-0814,Transistores,Transistores USB-C,9.49,119,13,0,Disponible
+COMP-0815,Microcontroladores,Microcontroladores DHT11,5.95,393,14,200,Disponible
+COMP-0816,Capacitores,Capacitores ATmega328P,9.24,335,2,50,Disponible
+COMP-0817,Sensores,Sensores NE555,34.63,0,2,0,Agotado
+COMP-0818,Sensores,Sensores ATmega328P,19.21,181,1,0,Disponible
+COMP-0819,Resistencias,Resistencias 100nF,25.49,478,7,200,Disponible
+COMP-0820,Diodos,Diodos 10k Ohm,1.04,105,9,0,Disponible
+COMP-0821,Optoelectrónica,Optoelectrónica USB-C,1.65,216,0,0,Disponible
+COMP-0822,Módulos,Módulos USB-C,20.12,204,7,0,Disponible
+COMP-0823,Circuitos Integrados,Circuitos Integrados LED Rojo,36.77,69,6,0,Disponible
+COMP-0824,Microcontroladores,Microcontroladores LED Rojo,39.85,43,13,0,Disponible
+COMP-0825,Transistores,Transistores 100nF,3.99,328,6,0,Disponible
+COMP-0826,Optoelectrónica,Optoelectrónica 100nF,24.27,300,2,0,Disponible
+COMP-0827,Capacitores,Capacitores 10k Ohm,41.1,0,0,100,Agotado
+COMP-0828,Sensores,Sensores LED Rojo,17.52,183,3,50,Disponible
+COMP-0829,Microcontroladores,Microcontroladores DHT11,37.35,0,8,500,Agotado
+COMP-0830,Circuitos Integrados,Circuitos Integrados DHT11,6.1,0,4,200,Agotado
+COMP-0831,Módulos,Módulos 10k Ohm,42.1,337,0,0,Disponible
+COMP-0832,Resistencias,Resistencias DHT11,33.84,249,14,0,Disponible
+COMP-0833,Circuitos Integrados,Circuitos Integrados ESP32,42.37,362,4,0,Disponible
+COMP-0834,Microcontroladores,Microcontroladores 2N2222,30.48,440,12,0,Disponible
+COMP-0835,Circuitos Integrados,Circuitos Integrados 10k Ohm,16.42,0,7,100,Agotado
+COMP-0836,Microcontroladores,Microcontroladores 10k Ohm,42.22,195,7,200,Disponible
+COMP-0837,Microcontroladores,Microcontroladores 1N4148,12.47,177,4,0,Disponible
+COMP-0838,Conectores,Conectores NE555,15.01,416,11,0,Disponible
+COMP-0839,Transistores,Transistores NE555,31.57,474,8,0,Disponible
+COMP-0840,Sensores,Sensores ESP32,34.46,6,14,50,Stock Bajo
+COMP-0841,Conectores,Conectores LED Rojo,41.83,69,0,50,Disponible
+COMP-0842,Módulos,Módulos 100nF,9.3,126,3,0,Disponible
+COMP-0843,Conectores,Conectores 100nF,35.93,398,2,0,Disponible
+COMP-0844,Diodos,Diodos ATmega328P,33.26,0,1,50,Agotado
+COMP-0845,Diodos,Diodos ESP32,2.96,159,14,0,Disponible
+COMP-0846,Sensores,Sensores 10k Ohm,17.49,247,7,0,Disponible
+COMP-0847,Circuitos Integrados,Circuitos Integrados ESP32,12.8,202,6,0,Disponible
+COMP-0848,Transistores,Transistores ESP32,13.77,0,8,500,Agotado
+COMP-0849,Sensores,Sensores ESP32,44.23,471,1,100,Disponible
+COMP-0850,Microcontroladores,Microcontroladores NE555,28.96,142,13,500,Disponible
+COMP-0851,Capacitores,Capacitores ESP32,32.32,431,13,0,Disponible
+COMP-0852,Transistores,Transistores 2N2222,43.95,198,3,0,Disponible
+COMP-0853,Transistores,Transistores 100nF,17.04,0,13,100,Agotado
+COMP-0854,Microcontroladores,Microcontroladores ATmega328P,36.1,425,14,0,Disponible
+COMP-0855,Microcontroladores,Microcontroladores 2N2222,19.61,153,5,0,Disponible
+COMP-0856,Resistencias,Resistencias ATmega328P,39.14,491,10,0,Disponible
+COMP-0857,Sensores,Sensores 1N4148,8.21,375,2,0,Disponible
+COMP-0858,Microcontroladores,Microcontroladores ATmega328P,42.65,383,7,0,Disponible
+COMP-0859,Diodos,Diodos 100nF,9.92,141,2,0,Disponible
+COMP-0860,Módulos,Módulos 100nF,14.75,312,13,0,Disponible
+COMP-0861,Capacitores,Capacitores ESP32,34.05,164,11,0,Disponible
+COMP-0862,Sensores,Sensores USB-C,17.78,313,12,0,Disponible
+COMP-0863,Optoelectrónica,Optoelectrónica 1N4148,27.41,20,12,500,Stock Bajo
+COMP-0864,Diodos,Diodos 10k Ohm,20.06,81,1,0,Disponible
+COMP-0865,Circuitos Integrados,Circuitos Integrados DHT11,33.43,68,12,0,Disponible
+COMP-0866,Microcontroladores,Microcontroladores ATmega328P,10.35,130,12,100,Disponible
+COMP-0867,Optoelectrónica,Optoelectrónica USB-C,2.72,86,2,500,Disponible
+COMP-0868,Microcontroladores,Microcontroladores ESP32,13.57,217,10,0,Disponible
+COMP-0869,Transistores,Transistores NE555,21.4,0,5,100,Agotado
+COMP-0870,Diodos,Diodos 10k Ohm,7.64,471,1,0,Disponible
+COMP-0871,Transistores,Transistores LED Rojo,16.03,304,7,0,Disponible
+COMP-0872,Resistencias,Resistencias USB-C,18.06,402,0,0,Disponible
+COMP-0873,Transistores,Transistores NE555,2.68,370,6,0,Disponible
+COMP-0874,Resistencias,Resistencias 1N4148,26.29,344,1,0,Disponible
+COMP-0875,Resistencias,Resistencias ESP32,39.81,340,9,0,Disponible
+COMP-0876,Optoelectrónica,Optoelectrónica 10k Ohm,6.91,383,11,0,Disponible
+COMP-0877,Microcontroladores,Microcontroladores 10k Ohm,26.94,395,5,0,Disponible
+COMP-0878,Circuitos Integrados,Circuitos Integrados 10k Ohm,29.95,444,11,0,Disponible
+COMP-0879,Transistores,Transistores 1N4148,18.93,424,1,0,Disponible
+COMP-0880,Diodos,Diodos ATmega328P,31.58,160,1,0,Disponible
+COMP-0881,Resistencias,Resistencias LED Rojo,18.54,177,9,50,Disponible
+COMP-0882,Microcontroladores,Microcontroladores 1N4148,22.76,0,12,50,Agotado
+COMP-0883,Capacitores,Capacitores DHT11,0.43,195,7,100,Disponible
+COMP-0884,Sensores,Sensores LED Rojo,31.16,0,14,500,Agotado
+COMP-0885,Optoelectrónica,Optoelectrónica 100nF,29.79,489,14,50,Disponible
+COMP-0886,Circuitos Integrados,Circuitos Integrados ESP32,1.82,326,11,0,Disponible
+COMP-0887,Conectores,Conectores 1N4148,16.63,85,1,0,Disponible
+COMP-0888,Optoelectrónica,Optoelectrónica NE555,44.06,288,6,0,Disponible
+COMP-0889,Capacitores,Capacitores LED Rojo,18.99,80,2,0,Disponible
+COMP-0890,Sensores,Sensores DHT11,22.64,151,7,0,Disponible
+COMP-0891,Capacitores,Capacitores 100nF,40.96,60,6,0,Disponible
+COMP-0892,Transistores,Transistores ATmega328P,32.31,60,13,100,Disponible
+COMP-0893,Resistencias,Resistencias NE555,26.23,353,7,0,Disponible
+COMP-0894,Circuitos Integrados,Circuitos Integrados LED Rojo,35.92,27,13,0,Disponible
+COMP-0895,Módulos,Módulos ESP32,38.91,441,6,500,Disponible
+COMP-0896,Resistencias,Resistencias NE555,20.61,42,10,0,Disponible
+COMP-0897,Módulos,Módulos 100nF,21.43,168,5,0,Disponible
+COMP-0898,Sensores,Sensores NE555,17.43,422,12,0,Disponible
+COMP-0899,Microcontroladores,Microcontroladores 2N2222,43.51,85,6,0,Disponible
+COMP-0900,Conectores,Conectores USB-C,31.4,176,4,0,Disponible
+COMP-0901,Diodos,Diodos ATmega328P,3.84,16,6,0,Stock Bajo
+COMP-0902,Resistencias,Resistencias 100nF,38.85,97,0,0,Disponible
+COMP-0903,Circuitos Integrados,Circuitos Integrados NE555,21.68,0,0,0,Agotado
+COMP-0904,Capacitores,Capacitores USB-C,3.19,493,8,0,Disponible
+COMP-0905,Circuitos Integrados,Circuitos Integrados USB-C,24.78,197,13,0,Disponible
+COMP-0906,Sensores,Sensores NE555,18.83,97,4,0,Disponible
+COMP-0907,Módulos,Módulos ESP32,39.51,64,12,100,Disponible
+COMP-0908,Capacitores,Capacitores 2N2222,9.26,329,4,0,Disponible
+COMP-0909,Diodos,Diodos 1N4148,37.21,0,2,200,Agotado
+COMP-0910,Diodos,Diodos 2N2222,25.14,4,4,0,Stock Bajo
+COMP-0911,Resistencias,Resistencias NE555,2.55,1,2,0,Stock Bajo
+COMP-0912,Sensores,Sensores ATmega328P,43.74,21,8,0,Disponible
+COMP-0913,Microcontroladores,Microcontroladores 1N4148,23.12,111,8,0,Disponible
+COMP-0914,Sensores,Sensores 100nF,13.16,56,5,100,Disponible
+COMP-0915,Módulos,Módulos 2N2222,21.18,65,14,100,Disponible
+COMP-0916,Circuitos Integrados,Circuitos Integrados NE555,38.62,0,0,0,Agotado
+COMP-0917,Diodos,Diodos 2N2222,13.79,97,6,50,Disponible
+COMP-0918,Circuitos Integrados,Circuitos Integrados 1N4148,8.75,143,6,0,Disponible
+COMP-0919,Circuitos Integrados,Circuitos Integrados DHT11,5.9,0,13,200,Agotado
+COMP-0920,Circuitos Integrados,Circuitos Integrados LED Rojo,13.47,434,9,0,Disponible
+COMP-0921,Diodos,Diodos 2N2222,35.12,124,9,0,Disponible
+COMP-0922,Optoelectrónica,Optoelectrónica 100nF,21.28,166,3,50,Disponible
+COMP-0923,Transistores,Transistores 100nF,10.31,85,7,0,Disponible
+COMP-0924,Módulos,Módulos 10k Ohm,7.56,75,5,0,Disponible
+COMP-0925,Optoelectrónica,Optoelectrónica 2N2222,15.04,343,3,200,Disponible
+COMP-0926,Módulos,Módulos LED Rojo,42.3,494,3,0,Disponible
+COMP-0927,Capacitores,Capacitores ESP32,15.5,423,1,0,Disponible
+COMP-0928,Sensores,Sensores USB-C,44.47,293,13,0,Disponible
+COMP-0929,Sensores,Sensores LED Rojo,21.89,443,1,50,Disponible
+COMP-0930,Conectores,Conectores USB-C,8.14,0,11,50,Agotado
+COMP-0931,Sensores,Sensores USB-C,40.11,137,13,0,Disponible
+COMP-0932,Diodos,Diodos DHT11,20.77,98,3,0,Disponible
+COMP-0933,Microcontroladores,Microcontroladores 10k Ohm,31.96,0,4,500,Agotado
+COMP-0934,Resistencias,Resistencias LED Rojo,44.27,242,7,50,Disponible
+COMP-0935,Conectores,Conectores LED Rojo,2.35,318,14,0,Disponible
+COMP-0936,Resistencias,Resistencias DHT11,4.44,48,5,0,Disponible
+COMP-0937,Módulos,Módulos 2N2222,32.45,447,13,200,Disponible
+COMP-0938,Resistencias,Resistencias 2N2222,12.75,31,14,0,Disponible
+COMP-0939,Resistencias,Resistencias 2N2222,8.38,0,3,200,Agotado
+COMP-0940,Conectores,Conectores ATmega328P,1.87,276,12,0,Disponible
+COMP-0941,Capacitores,Capacitores USB-C,1.08,19,10,500,Stock Bajo
+COMP-0942,Circuitos Integrados,Circuitos Integrados ATmega328P,34.87,0,6,100,Agotado
+COMP-0943,Sensores,Sensores 10k Ohm,6.14,382,7,0,Disponible
+COMP-0944,Sensores,Sensores DHT11,21.1,0,1,0,Agotado
+COMP-0945,Diodos,Diodos LED Rojo,27.3,0,11,500,Agotado
+COMP-0946,Conectores,Conectores USB-C,19.33,371,6,0,Disponible
+COMP-0947,Diodos,Diodos ATmega328P,1.32,213,14,0,Disponible
+COMP-0948,Microcontroladores,Microcontroladores ATmega328P,35.28,142,13,500,Disponible
+COMP-0949,Microcontroladores,Microcontroladores NE555,0.57,0,1,500,Agotado
+COMP-0950,Diodos,Diodos ATmega328P,34.31,231,1,0,Disponible
+COMP-0951,Conectores,Conectores ESP32,40.21,212,7,0,Disponible
+COMP-0952,Diodos,Diodos LED Rojo,19.53,78,1,0,Disponible
+COMP-0953,Sensores,Sensores ESP32,24.15,213,14,100,Disponible
+COMP-0954,Optoelectrónica,Optoelectrónica LED Rojo,21.52,115,10,0,Disponible
+COMP-0955,Transistores,Transistores DHT11,17.58,91,8,0,Disponible
+COMP-0956,Resistencias,Resistencias LED Rojo,39.95,269,11,0,Disponible
+COMP-0957,Transistores,Transistores ESP32,40.24,0,0,200,Agotado
+COMP-0958,Conectores,Conectores LED Rojo,15.18,380,14,0,Disponible
+COMP-0959,Transistores,Transistores DHT11,27.72,488,8,0,Disponible
+COMP-0960,Microcontroladores,Microcontroladores DHT11,41.72,167,14,100,Disponible
+COMP-0961,Módulos,Módulos 10k Ohm,43.3,57,0,200,Disponible
+COMP-0962,Resistencias,Resistencias LED Rojo,22.95,283,9,0,Disponible
+COMP-0963,Circuitos Integrados,Circuitos Integrados NE555,20.43,0,12,500,Agotado
+COMP-0964,Conectores,Conectores 2N2222,12.61,368,9,0,Disponible
+COMP-0965,Resistencias,Resistencias 100nF,43.15,446,1,0,Disponible
+COMP-0966,Transistores,Transistores DHT11,6.51,65,5,0,Disponible
+COMP-0967,Microcontroladores,Microcontroladores 1N4148,26.13,408,5,0,Disponible
+COMP-0968,Capacitores,Capacitores 2N2222,12.79,0,0,200,Agotado
+COMP-0969,Optoelectrónica,Optoelectrónica USB-C,12.63,253,6,0,Disponible
+COMP-0970,Circuitos Integrados,Circuitos Integrados LED Rojo,18.28,386,7,0,Disponible
+COMP-0971,Optoelectrónica,Optoelectrónica ESP32,44.95,455,1,0,Disponible
+COMP-0972,Resistencias,Resistencias 100nF,2.57,43,7,0,Disponible
+COMP-0973,Microcontroladores,Microcontroladores 1N4148,26.08,96,8,50,Disponible
+COMP-0974,Microcontroladores,Microcontroladores 2N2222,3.81,0,5,200,Agotado
+COMP-0975,Transistores,Transistores LED Rojo,7.04,499,4,0,Disponible
+COMP-0976,Sensores,Sensores 10k Ohm,19.84,226,11,0,Disponible
+COMP-0977,Transistores,Transistores USB-C,23.02,261,8,0,Disponible
+COMP-0978,Sensores,Sensores 100nF,11.72,166,12,100,Disponible
+COMP-0979,Sensores,Sensores NE555,14.31,435,11,0,Disponible
+COMP-0980,Circuitos Integrados,Circuitos Integrados 10k Ohm,4.0,278,10,0,Disponible
+COMP-0981,Transistores,Transistores 1N4148,13.71,88,8,100,Disponible
+COMP-0982,Capacitores,Capacitores 100nF,43.5,378,0,0,Disponible
+COMP-0983,Diodos,Diodos 10k Ohm,42.52,177,10,0,Disponible
+COMP-0984,Diodos,Diodos USB-C,15.14,0,2,100,Agotado
+COMP-0985,Transistores,Transistores NE555,25.73,402,8,200,Disponible
+COMP-0986,Transistores,Transistores 10k Ohm,40.94,196,10,0,Disponible
+COMP-0987,Optoelectrónica,Optoelectrónica ATmega328P,0.38,306,1,0,Disponible
+COMP-0988,Circuitos Integrados,Circuitos Integrados NE555,36.5,266,11,0,Disponible
+COMP-0989,Transistores,Transistores 1N4148,42.68,0,3,0,Agotado
+COMP-0990,Optoelectrónica,Optoelectrónica USB-C,4.2,0,3,0,Agotado
+COMP-0991,Sensores,Sensores LED Rojo,7.35,7,1,0,Stock Bajo
+COMP-0992,Microcontroladores,Microcontroladores ESP32,43.24,407,14,0,Disponible
+COMP-0993,Microcontroladores,Microcontroladores ESP32,24.24,475,2,200,Disponible
+COMP-0994,Sensores,Sensores ESP32,0.74,296,12,50,Disponible
+COMP-0995,Conectores,Conectores 100nF,11.67,0,2,0,Agotado
+COMP-0996,Optoelectrónica,Optoelectrónica 1N4148,20.3,484,0,100,Disponible
+COMP-0997,Optoelectrónica,Optoelectrónica USB-C,31.21,84,5,0,Disponible
+COMP-0998,Sensores,Sensores NE555,33.02,71,7,0,Disponible
+COMP-0999,Capacitores,Capacitores 100nF,44.79,54,11,0,Disponible
+COMP-1000,Módulos,Módulos 1N4148,13.01,392,2,100,Disponible
