@@ -17,7 +17,7 @@ Antes de ejecutar el script, asegúrate de tener instalado Python 3.11 o superio
 1. **Instalación de Librerías:**
    Instala los paquetes necesarios ejecutando el siguiente comando en tu terminal:
    ```bash
-   pip install pandas gradio groq
+   pip install pandas groq
    ```
 
 2. **Clave de la API de Groq:**
