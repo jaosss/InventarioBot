@@ -46,3 +46,34 @@ Antes de ejecutar el script, asegúrate de tener instalado Python 3.11 o superio
 * *¿Tienes resistencias o capacitores disponibles?*
 
 4. **Pare cerrar el programa:** Para salir del chat y terminar el ciclo, escribe la palabra `terminar`.
+
+# Guía para generar un Token de API en Groq
+
+Para poder utilizar los modelos de lenguaje de Groq en tus aplicaciones o scripts, necesitas generar una clave de API (**API Key**). Sigue estos sencillos pasos:
+
+## Pasos para obtener tu API Key
+
+1. **Inicia sesión o regístrate:**
+   * Ve al sitio web oficial de [Groq Console](https://groq.com).
+   * Introduce tus credenciales o crea una cuenta nueva si aún no la tienes.
+
+2. **Accede a la sección de API Keys:**
+   * En el menú lateral izquierdo, busca y haz clic en la opción **"API Keys"**.
+
+3. **Crea una nueva clave:**
+   * Haz clic en el botón que dice **"Create API Key"** (Crear clave de API).
+   * *(Opcional)* Asigna un nombre a tu clave para identificarla fácilmente (por ejemplo, *'Proyecto-Test'*).
+
+4. **Guarda tu Token:**
+   * Se abrirá una ventana emergente mostrando tu nueva clave.
+   * **Copia la clave inmediatamente** haciendo clic en el botón de copiar.
+   * *Nota: Por motivos de seguridad, no podrás volver a ver esta clave una vez que cierres la ventana.*
+
+## ⚠️ Recomendaciones de Seguridad
+
+* **No compartas tu clave:** Nunca subas tu API Key a repositorios públicos como GitHub.
+* **Usa variables de entorno:** Es una buena práctica guardar tu token en un archivo `.env` de la siguiente manera:
+  ```env
+  GROQ_API_KEY=tu_token_aqui_xxxxx
+  ```
+
